@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @knissley
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m passionate about full-stack web and mobile development.
 - 📫 You can reach me at knissley97@gmail.com
 
 <!---
