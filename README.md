@@ -11,7 +11,7 @@ I’m passionate about full-stack web and mobile development, currently learning
 
 <ul>
   <li>🏢  Employed at Galvanize as a Software Engineering Immersive Resident</li>
-  <li>📍  Based in Melissa, TX</li>
+  <li>📍  Based in Frisco, TX</li>
   <li>🙋🏻‍♂️  he/him/his</li>
 </ul>
 
