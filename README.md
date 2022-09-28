@@ -3,6 +3,8 @@
 
 I’m passionate about full-stack web and mobile development, currently learning Dart and Flutter.
 
+<a href="https://knissley.github.io/portfolio" target="_blank" rel="noreferrer">Check out some of my work! </a>
+
 <a href="https://www.linkedin.com/in/kylenissley/">
 
 ![LinkedIn](https://img.shields.io/badge/knissley-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
